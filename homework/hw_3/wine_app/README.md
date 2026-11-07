@@ -46,3 +46,5 @@ python -m streamlit run wine_app/app.py
 2. В Streamlit Community Cloud создайте приложение, выберите репозиторий и ветку.
 3. Укажите основной файл **`wine_app/app.py`** (если репозиторий содержит папку `wine_app`) или `app.py` (если файлы лежат в корне).
 4. Укажите Python 3.14, если он доступен, или совместимый интерпретатор, и нажмите Deploy.
+
+Ссылка: https://kogh2wyse2was4ktnxhpmi.streamlit.app/
